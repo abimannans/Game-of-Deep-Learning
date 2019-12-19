@@ -17,7 +17,7 @@ There are 5 classes of ships to be detected which are as follows:
    5. Tanker
   
 # Approach
-I have used fastai cnn learner datablock api. The final submission is a result of votings based on 22 submissions which were created from 22 different models based on different techniques such as:
+I have used fastai cnn learner datablock api. 
 
 different image size (299/484/599)
 different pre-trained architectures (resnet101/resnet152/densenet161/densenet169)
